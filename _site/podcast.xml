@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>A.J. Salvatore</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/keybearer&quot;&gt;@keybearer on Micro.blog&lt;/a&gt;.</description>
+    <link>https://keybearer.micro.blog/</link>
+    <pubDate>Fri, 13 Apr 2018 01:45:35 -0700</pubDate>
+    <lastBuildDate>Fri, 13 Apr 2018 01:45:35 -0700</lastBuildDate>
+	<itunes:image href="https://micro.blog/keybearer/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>		
+	<language>en</language>
+    
+		
+    
+		
+    
+		
+    
+		
+    
+  </channel>
+</rss>
