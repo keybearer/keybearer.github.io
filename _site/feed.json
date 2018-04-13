@@ -1,0 +1,43 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "A.J. Salvatore",
+	"home_page_url": "https://keybearer.micro.blog/",
+	"feed_url": "https://keybearer.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://keybearer.micro.blog/2018/03/12/205528.html",
+	      	
+			"title": "The Daily Theme",
+			
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/03/08/insider/daily-sound-production.html\">www.nytimes.com</a></p>\n",
+			"date_published": "2018-03-12T13:55:28-07:00",
+			"url": "https://keybearer.micro.blog/2018/03/12/205528.html"
+		},
+		
+		{
+			"id": "http://keybearer.micro.blog/2018/01/30/on-wednesday-notable.html",
+	      	
+			"content_html": "<p>on wednesday, notable youtube interviewer Dave Rubin will be hosting a sit-down with conservative political pundit Ben Shapiro and clinical psychologist Jordan B. Peterson to discuss a wide range of topics</p>\n\n<p><a href=\"https://youtu.be/bC8XVphsdHI\">breaktheinternet</a></p>\n\n<p><a href=\"https://instagram.com/aaron_leonard_gall/\">artwork</a></p>\n\n<p><img src=\"http://keybearer.micro.blog/uploads/2018/c655a7c102.jpg\" width=\"400\" height=\"400\" /></p>\n",
+			"date_published": "2018-01-29T22:57:53-08:00",
+			"url": "https://keybearer.micro.blog/2018/01/29/on-wednesday-notable.html"
+		},
+		
+		{
+			"id": "http://keybearer.micro.blog/2018/01/29/weve-been-having.html",
+	      	
+			"content_html": "<p>we’ve been having problems with our cable provider so i decided to give Hulu TV a chance through their week trial 📺 here’s my short review: the slight (and often) hiccups in buffer speed are far outweighed by the offering of both the west and east coast feeds for adultswim<br />\n<img src=\"http://keybearer.micro.blog/uploads/2018/914a3735db.jpg\" width=\"300\" height=\"300\" />\n<img src=\"http://keybearer.micro.blog/uploads/2018/976575098f.jpg\" width=\"300\" height=\"300\" /></p>\n",
+			"date_published": "2018-01-28T22:37:35-08:00",
+			"url": "https://keybearer.micro.blog/2018/01/28/weve-been-having.html"
+		},
+		
+		{
+			"id": "http://keybearer.micro.blog/2018/01/28/watching-the-force.html",
+	      	
+			"content_html": "<p>watching The Force Awakens right now, and I think i will be using MoviePass for the first time tomorrow to watch The Last Jedi in a theatre; really am trying to keep my expectations tempered…\n<br />\n<img src=\"http://keybearer.micro.blog/uploads/2018/7047231f3f.jpg\" width=\"300\" height=\"225\" /></p>\n",
+			"date_published": "2018-01-28T02:02:55-08:00",
+			"url": "https://keybearer.micro.blog/2018/01/28/watching-the-force.html"
+		}
+		
+	]
+}
