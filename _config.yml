@@ -10,7 +10,7 @@ highlighter: null
 # - markdown: kramdown
 
 title: "A.J. Salvatore"
-tagline: ""
+tagline: "@keybearer"
 description: "Follow <a href=\"https://micro.blog/keybearer\">@keybearer on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/keybearer\">@keybearer on Micro.blog</a>."
 baseurl: ""
@@ -24,7 +24,7 @@ name: "A.J. Salvatore"
 gravatar_hash: "01d184991418aadc8751d6af3af50556"
 avatar: "https://micro.blog/keybearer/avatar.jpg"
 full_name: "A.J. Salvatore"
-bio: ""
+bio: "gamer raver nerd"
 twitter_username: "keybearer"
 github_username: ""
 instagram_username: "keybear_"
